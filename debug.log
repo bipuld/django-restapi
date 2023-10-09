@@ -1,0 +1,178 @@
+2023-10-09 21:26:12,339 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:27:51,925 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:27:52,927 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:27:56,450 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:27:57,264 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:28:31,322 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:28:32,240 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:29:41,562 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:29:42,570 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:29:59,014 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:29:59,874 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:30:06,751 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:30:07,784 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:30:09,695 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:30:10,575 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:30:30,978 WARNING Not Found: /test 241 
+2023-10-09 21:30:30,978 WARNING "GET /test HTTP/1.1" 404 2250 212 
+2023-10-09 21:31:04,179 INFO E:\coding\python\django\django-rest framework\restpro\restapp\urls.py changed, reloading. 266 
+2023-10-09 21:31:05,275 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:31:07,973 INFO "GET /test HTTP/1.1" 200 83 212 
+2023-10-09 21:32:01,688 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:32:02,759 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:32:06,508 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:32:07,247 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:32:11,750 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:32:12,956 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:32:27,851 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:32:28,789 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:32:33,288 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:32:33,986 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:32:38,592 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:32:39,695 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:32:46,320 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:32:47,178 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:32:50,729 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:32:51,528 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:32:53,845 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:32:54,646 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:33:00,100 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:33:01,060 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:33:04,767 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:33:05,534 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:33:06,812 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:33:07,916 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:33:11,376 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:33:12,587 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:33:15,142 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:33:15,864 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:33:27,666 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:33:28,417 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:33:34,897 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:33:35,772 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:33:37,559 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:33:38,381 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:33:44,985 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:33:45,792 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:34:03,988 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:34:04,848 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:34:11,103 ERROR Internal Server Error: /test 241 
+Traceback (most recent call last):
+  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 29, in get
+    return JsonResponse(msg,status=status.HTTP_202_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_202_OK'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 32, in get
+    logger.info(str(e),exec_info=True)
+  File "C:\Users\DOS\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1489, in info
+    self._log(INFO, msg, args, **kwargs)
+TypeError: Logger._log() got an unexpected keyword argument 'exec_info'
+2023-10-09 21:34:11,118 ERROR "GET /test HTTP/1.1" 500 100488 212 
+2023-10-09 21:34:17,383 ERROR Internal Server Error: /test 241 
+Traceback (most recent call last):
+  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 29, in get
+    return JsonResponse(msg,status=status.HTTP_202_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_202_OK'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 32, in get
+    logger.info(str(e),exec_info=True)
+  File "C:\Users\DOS\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1489, in info
+    self._log(INFO, msg, args, **kwargs)
+TypeError: Logger._log() got an unexpected keyword argument 'exec_info'
+2023-10-09 21:34:17,385 ERROR "GET /test HTTP/1.1" 500 100488 212 
+2023-10-09 21:34:21,001 ERROR Internal Server Error: /test 241 
+Traceback (most recent call last):
+  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 29, in get
+    return JsonResponse(msg,status=status.HTTP_202_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_202_OK'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 32, in get
+    logger.info(str(e),exec_info=True)
+  File "C:\Users\DOS\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1489, in info
+    self._log(INFO, msg, args, **kwargs)
+TypeError: Logger._log() got an unexpected keyword argument 'exec_info'
+2023-10-09 21:34:21,010 ERROR "GET /test HTTP/1.1" 500 100488 212 
+2023-10-09 21:34:34,730 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:34:35,631 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:34:39,495 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
+2023-10-09 21:34:40,315 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:35:07,830 INFO Watching for file changes with StatReloader 668 
+2023-10-09 21:35:15,610 INFO "GET /test HTTP/1.1" 200 83 212 
