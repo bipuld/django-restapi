@@ -5027,3 +5027,13 @@ django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000
 2023-10-13 13:11:52,468 INFO "GET /test HTTP/1.1" 200 278 212 
 2023-10-13 13:11:57,830 INFO "GET /test HTTP/1.1" 200 278 212 
 2023-10-13 13:13:12,642 INFO "GET /test HTTP/1.1" 200 337 212 
+2023-10-18 10:48:45,375 INFO Watching for file changes with StatReloader 668 
+2023-10-18 10:48:50,264 WARNING Not Found: / 241 
+2023-10-18 10:48:50,264 WARNING "GET / HTTP/1.1" 404 2224 212 
+2023-10-18 10:48:50,427 WARNING Not Found: /favicon.ico 241 
+2023-10-18 10:48:50,428 WARNING "GET /favicon.ico HTTP/1.1" 404 2275 212 
+2023-10-18 10:49:01,321 INFO E:\coding\python\django\django-rest framework\restpro\restpro\settings.py changed, reloading. 266 
+2023-10-18 10:49:36,061 INFO Watching for file changes with StatReloader 668 
+2023-10-18 10:49:38,718 WARNING Not Found: / 241 
+2023-10-18 10:49:38,723 WARNING "GET / HTTP/1.1" 404 2224 212 
+2023-10-18 12:07:29,922 INFO Watching for file changes with StatReloader 668 
