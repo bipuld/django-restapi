@@ -1,5 +1,5 @@
 import logging
-# import json
+import json
 
 from django.shortcuts import render
 from rest_framework.decorators import APIView
@@ -7,7 +7,7 @@ from django.http import JsonResponse
 from rest_framework import status
 from rest_framework.authentication import BasicAuthentication,TokenAuthentication
 from rest_framework import status
-
+from restpro import global_msg
 
 from .models import Student
 from .serializers import Testserializers
@@ -23,14 +23,7 @@ class FirstApiTestView(APIView):
         # print(request.headers)
         try:
             data=[]
-            students=Student.objects.filter(is_user1=True)
-            # print(type(students))
-            # for student in students:
-            #     data.append({
-            #         "name": student.name,  # Iterate through students to access individual student objects
-            #         "address": student.address,
-            #         "is_admin": student.is_user1,  # Corrected field name
-            #     })
+            students=Student.objects.all()
             serializer=Testserializers(students,many=True)
             print(serializer)
             msg={
@@ -44,14 +37,27 @@ class FirstApiTestView(APIView):
                
     def post(self,request):
             data=request.data
-            # print(data)
+           
+            if not request.body:
+                  return JsonResponse({
+                "response_code": global_msg.UNSUCCESS_RESPONSE_CODE,
+                "response": "Body is required",
+               
+                })
+                
             serializer=Testserializers(data=data)
             if serializer.is_valid():
                 serializer.save()
                 msg={
-                    'code':"200",
+                    'code':global_msg.SUCCESS_RESPONSE_CODE,
                     'msg':'success'                
                 }
                 return JsonResponse(msg,status=200)
-            return JsonResponse(msg,status=status.HTTP_200_OK)
+            # return JsonResponse(msg,status=status.HTTP_200_ACCEPTED)
+           
+            return JsonResponse({
+                "response_code": global_msg.UNSUCCESS_RESPONSE_CODE,
+                "response": "Something Were Wrong",
+                "error": serializer.errors
+            })
     
