@@ -73,7 +73,11 @@ class StudentCreateApiView(APIView):
                 global_msg.RESPONSE_MSG_KEY:"Body Is Required"
             }
             return JsonResponse(message,status=status.HTTP_404_NOT_FOUND)
-    
+        try:
+            pass
+        except Exception as exe:
+            logger.error(str(exe),exc_info=True)
+            
 class StudentListeApiView(APIView):
     def get(self,request):
         pass

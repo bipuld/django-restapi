@@ -175,3 +175,40 @@ AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse`
 2023-11-02 17:57:14,823 INFO Watching for file changes with StatReloader 668 
 2023-11-02 17:57:21,257 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
 2023-11-02 17:57:22,505 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:57:25,621 ERROR Internal Server Error: /student/create 241 
+Traceback (most recent call last):
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-11-02 17:57:25,624 ERROR "POST /student/create HTTP/1.1" 500 80555 212 
+2023-11-02 17:57:36,997 WARNING Not Found: /student/create 241 
+2023-11-02 17:57:36,998 WARNING "POST /student/create HTTP/1.1" 404 53 212 
+2023-11-02 18:00:26,677 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 18:00:28,952 INFO Watching for file changes with StatReloader 668 
+2023-11-02 18:00:30,232 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 18:00:31,194 INFO Watching for file changes with StatReloader 668 
+2023-11-02 18:00:58,139 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 18:00:58,874 INFO Watching for file changes with StatReloader 668 
+2023-11-02 18:01:09,629 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 18:01:10,953 INFO Watching for file changes with StatReloader 668 
+2023-11-02 18:01:18,024 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 18:01:19,519 INFO Watching for file changes with StatReloader 668 
+2023-11-02 18:01:24,352 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 18:01:25,666 INFO Watching for file changes with StatReloader 668 
+2023-11-02 18:01:28,346 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 18:01:29,231 INFO Watching for file changes with StatReloader 668 
