@@ -1,18 +1,84 @@
-2023-11-02 15:20:30,388 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 15:20:31,177 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:20:36,140 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 15:20:36,859 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:20:39,313 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 15:20:39,973 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:20:42,380 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 15:20:43,030 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:20:44,313 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 15:20:44,966 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:21:06,767 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 15:21:08,010 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:21:12,451 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 15:21:13,142 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:21:16,722 ERROR Internal Server Error: /test 241 
+2023-11-02 17:40:08,974 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\__init__.py changed, reloading. 266 
+2023-11-02 17:40:13,134 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:40:15,898 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\__init__.py changed, reloading. 266 
+2023-11-02 17:40:17,792 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:40:20,582 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\__init__.py changed, reloading. 266 
+2023-11-02 17:40:22,394 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:47:04,055 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:47:10,401 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:47:21,068 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:47:24,588 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:47:32,148 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:47:36,900 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:47:46,338 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:47:48,609 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:47:54,427 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:47:56,771 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:47:58,947 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:48:00,639 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:48:10,399 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:48:12,438 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:48:20,343 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:48:22,248 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:48:26,633 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:48:27,998 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:48:31,412 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:48:33,171 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:48:41,297 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:48:42,805 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:48:51,537 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:48:53,058 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:49:04,005 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:49:06,227 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:49:10,485 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:49:12,079 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:49:19,637 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:49:21,340 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:49:28,193 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:49:30,157 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:52:12,612 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:52:15,166 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:52:20,948 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:52:22,772 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:52:25,979 INFO E:\coding\python\django\django-rest framework\restpro\restpro\global_msg.py changed, reloading. 266 
+2023-11-02 17:52:27,818 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:52:49,327 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:52:51,171 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:52:54,571 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:52:56,449 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:53:14,124 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:53:15,694 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:53:21,356 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:53:23,096 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:53:27,328 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:53:29,355 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:53:45,388 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:53:46,485 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:53:51,226 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:53:51,988 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:53:56,607 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:53:57,405 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:54:01,027 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:54:01,819 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:54:05,206 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:54:05,988 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:54:10,669 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:54:11,551 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:54:19,361 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:54:21,371 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:54:29,938 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:54:30,911 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:54:37,072 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:54:38,319 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:54:41,371 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:54:42,599 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:54:49,457 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:54:50,360 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:55:22,903 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:55:23,697 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:55:25,590 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:55:26,482 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:55:48,220 ERROR Internal Server Error: /student/create 241 
 Traceback (most recent call last):
   File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
     response = get_response(request)
@@ -26,23 +92,14 @@ Traceback (most recent call last):
   File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
     return self.dispatch(request, *args, **kwargs)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
-    response = self.handle_exception(exc)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
-    self.raise_uncaught_exception(exc)
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
-    raise exc
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
-    response = handler(request, *args, **kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 54, in post
-    "error": serializer.error
-             ^^^^^^^^^^^^^^^^
-AttributeError: 'Testserializers' object has no attribute 'error'
-2023-11-02 15:21:16,722 ERROR "POST /test HTTP/1.1" 500 93407 212 
-2023-11-02 15:21:26,937 INFO "GET /test HTTP/1.1" 200 95 212 
-2023-11-02 15:21:31,743 ERROR Internal Server Error: /test 241 
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-11-02 17:55:48,248 ERROR "POST /student/create HTTP/1.1" 500 80555 212 
+2023-11-02 17:55:52,551 ERROR Internal Server Error: /student/create 241 
 Traceback (most recent call last):
   File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
     response = get_response(request)
@@ -56,85 +113,15 @@ Traceback (most recent call last):
   File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
     return self.dispatch(request, *args, **kwargs)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
-    response = self.handle_exception(exc)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
-    self.raise_uncaught_exception(exc)
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
-    raise exc
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
-    response = handler(request, *args, **kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 54, in post
-    "error": serializer.error
-             ^^^^^^^^^^^^^^^^
-AttributeError: 'Testserializers' object has no attribute 'error'
-2023-11-02 15:21:31,745 ERROR "POST /test HTTP/1.1" 500 93407 212 
-2023-11-02 15:21:59,208 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 15:21:59,984 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:22:01,647 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 15:22:02,384 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:24:16,925 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 15:24:19,910 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:24:20,642 INFO "POST /test HTTP/1.1" 200 124 212 
-2023-11-02 15:41:48,733 INFO "GET /test HTTP/1.1" 200 302 212 
-2023-11-02 15:41:56,630 INFO "POST /test HTTP/1.1" 200 124 212 
-2023-11-02 15:42:02,724 INFO "POST /test HTTP/1.1" 200 33 212 
-2023-11-02 15:42:19,517 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:42:29,191 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:42:37,545 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:42:39,395 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:42:41,769 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:42:42,983 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:42:48,650 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:42:49,380 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:42:53,807 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:42:54,737 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:00,174 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:43:00,864 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:05,369 INFO E:\coding\python\django\django-rest framework\restpro\restapp\models.py changed, reloading. 266 
-2023-11-02 15:43:06,097 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:07,668 INFO E:\coding\python\django\django-rest framework\restpro\restapp\models.py changed, reloading. 266 
-2023-11-02 15:43:08,548 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:09,943 INFO E:\coding\python\django\django-rest framework\restpro\restapp\models.py changed, reloading. 266 
-2023-11-02 15:43:11,015 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:12,401 INFO E:\coding\python\django\django-rest framework\restpro\restapp\models.py changed, reloading. 266 
-2023-11-02 15:43:13,312 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:17,706 INFO E:\coding\python\django\django-rest framework\restpro\restapp\models.py changed, reloading. 266 
-2023-11-02 15:43:18,665 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:19,976 INFO E:\coding\python\django\django-rest framework\restpro\restapp\models.py changed, reloading. 266 
-2023-11-02 15:43:20,808 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:29,279 INFO E:\coding\python\django\django-rest framework\restpro\restapp\models.py changed, reloading. 266 
-2023-11-02 15:43:30,162 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:31,463 INFO E:\coding\python\django\django-rest framework\restpro\restapp\models.py changed, reloading. 266 
-2023-11-02 15:43:32,311 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:36,957 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:43:37,673 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:48,303 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:43:49,311 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:52,813 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:43:54,067 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:43:55,863 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:43:56,602 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:44:04,375 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:44:05,242 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:44:08,664 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:44:09,421 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:44:11,911 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:44:12,671 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:44:16,237 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:44:17,226 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:44:23,884 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:44:24,619 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:44:26,998 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:44:27,779 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:44:29,111 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:44:29,862 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:44:35,400 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:44:36,280 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:44:41,963 INFO "GET /test HTTP/1.1" 200 519 212 
-2023-11-02 15:45:11,443 ERROR Internal Server Error: /test 241 
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-11-02 17:55:52,552 ERROR "POST /student/create HTTP/1.1" 500 80555 212 
+2023-11-02 17:56:10,260 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:56:21,981 ERROR Internal Server Error: /student/create 241 
 Traceback (most recent call last):
   File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
     response = get_response(request)
@@ -148,34 +135,16 @@ Traceback (most recent call last):
   File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
     return self.dispatch(request, *args, **kwargs)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
-    response = self.handle_exception(exc)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
-    self.raise_uncaught_exception(exc)
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
-    raise exc
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
-    response = handler(request, *args, **kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 42, in post
-    if serializer.is_valid():
-       ^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
-    self._validated_data = self.run_validation(self.initial_data)
-                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\serializers.py", line 426, in run_validation
-    value = self.to_internal_value(data)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\serializers.py", line 485, in to_internal_value
-    validated_value = validate_method(validated_value)
-                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py", line 28, in validate_age
-    if mobile_num.exists():
-       ^^^^^^^^^^^^^^^^^
-AttributeError: 'int' object has no attribute 'exists'
-2023-11-02 15:45:11,446 ERROR "POST /test HTTP/1.1" 500 112078 212 
-2023-11-02 15:50:34,814 ERROR Internal Server Error: /test 241 
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-11-02 17:56:21,983 ERROR "POST /student/create HTTP/1.1" 500 80555 212 
+2023-11-02 17:56:29,966 WARNING Method Not Allowed: /student/create 241 
+2023-11-02 17:56:29,967 WARNING "GET /student/create HTTP/1.1" 405 40 212 
+2023-11-02 17:56:33,581 ERROR Internal Server Error: /student/create 241 
 Traceback (most recent call last):
   File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
     response = get_response(request)
@@ -189,355 +158,20 @@ Traceback (most recent call last):
   File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
     return self.dispatch(request, *args, **kwargs)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
-    response = self.handle_exception(exc)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
-    self.raise_uncaught_exception(exc)
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
-    raise exc
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
-    response = handler(request, *args, **kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 42, in post
-    if serializer.is_valid():
-       ^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
-    self._validated_data = self.run_validation(self.initial_data)
-                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\serializers.py", line 426, in run_validation
-    value = self.to_internal_value(data)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\serializers.py", line 485, in to_internal_value
-    validated_value = validate_method(validated_value)
-                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py", line 28, in validate_age
-    if mobile_num.exists():
-       ^^^^^^^^^^^^^^^^^
-AttributeError: 'int' object has no attribute 'exists'
-2023-11-02 15:50:34,829 ERROR "POST /test HTTP/1.1" 500 112078 212 
-2023-11-02 15:50:51,836 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:50:56,766 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:51:03,611 ERROR Internal Server Error: /test 241 
-Traceback (most recent call last):
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
-    response = get_response(request)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
-    return view_func(*args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
-    return self.dispatch(request, *args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
-    response = self.handle_exception(exc)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
-    self.raise_uncaught_exception(exc)
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
-    raise exc
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
-    response = handler(request, *args, **kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 42, in post
-    if serializer.is_valid():
-       ^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
-    self._validated_data = self.run_validation(self.initial_data)
-                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\serializers.py", line 426, in run_validation
-    value = self.to_internal_value(data)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\serializers.py", line 485, in to_internal_value
-    validated_value = validate_method(validated_value)
-                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py", line 28, in validate_mobile_num
-    if mobile_num.exists():
-       ^^^^^^^^^^^^^^^^^
-AttributeError: 'str' object has no attribute 'exists'
-2023-11-02 15:51:03,611 ERROR "POST /test HTTP/1.1" 500 112206 212 
-2023-11-02 15:51:14,576 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 15:51:16,119 INFO Watching for file changes with StatReloader 668 
-2023-11-02 15:51:17,840 INFO "POST /test HTTP/1.1" 200 33 212 
-2023-11-02 15:51:22,076 INFO "GET /test HTTP/1.1" 200 597 212 
-2023-11-02 15:51:31,757 INFO "GET /test HTTP/1.1" 200 597 212 
-2023-11-02 15:51:36,019 INFO "POST /test HTTP/1.1" 200 33 212 
-2023-11-02 15:51:39,181 INFO "GET /test HTTP/1.1" 200 681 212 
-2023-11-02 16:03:10,711 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:03:13,650 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:03:18,355 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:03:21,119 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:03:26,871 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:03:27,590 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:03:35,339 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:03:36,337 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:03:37,976 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:03:38,807 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:03:40,402 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:03:41,402 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:03:44,197 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:03:44,904 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:03:47,613 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:03:49,009 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:03:52,621 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:03:53,739 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:04:09,902 INFO "POST /test HTTP/1.1" 200 119 212 
-2023-11-02 16:04:21,639 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:04:22,920 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:04:27,916 INFO E:\coding\python\django\django-rest framework\restpro\restapp\serializers.py changed, reloading. 266 
-2023-11-02 16:04:28,895 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:05:40,444 INFO E:\coding\python\django\django-rest framework\restpro\restapp\models.py changed, reloading. 266 
-2023-11-02 16:05:43,359 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:06:45,527 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:06:49,057 INFO "POST /test HTTP/1.1" 200 164 212 
-2023-11-02 16:07:00,510 INFO "POST /test HTTP/1.1" 200 116 212 
-2023-11-02 16:07:09,804 INFO "POST /test HTTP/1.1" 200 101 212 
-2023-11-02 16:07:28,157 INFO "POST /test HTTP/1.1" 200 33 212 
-2023-11-02 16:07:32,657 INFO "GET /test HTTP/1.1" 200 762 212 
-2023-11-02 16:07:42,649 WARNING Bad Request: /test 241 
-2023-11-02 16:07:42,650 WARNING "POST /test HTTP/1.1" 400 73 212 
-2023-11-02 16:07:55,052 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:07:56,139 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:07:59,793 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:08:00,750 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:08:04,242 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:08:05,108 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:08:20,834 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:08:21,594 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:08:29,100 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:08:30,620 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:08:37,065 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:08:37,872 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:08:41,554 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:08:42,324 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:08:46,016 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:08:46,779 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:08:52,443 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:08:53,211 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:08:58,343 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:08:59,334 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:09:01,342 WARNING Bad Request: /test 241 
-2023-11-02 16:09:01,342 WARNING "POST /test HTTP/1.1" 400 73 212 
-2023-11-02 16:09:07,136 INFO "POST /test HTTP/1.1" 200 56 212 
-2023-11-02 16:27:22,355 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:27:27,727 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:27:33,198 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:27:36,323 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:27:48,782 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:27:51,253 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:27:58,359 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:28:00,162 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:28:06,833 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:28:08,712 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:28:11,462 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:28:13,061 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:28:15,458 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:28:17,268 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:28:20,169 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:28:22,376 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:28:59,546 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:29:01,272 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:29:14,975 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:29:16,933 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:29:19,844 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:29:21,651 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:29:24,273 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:29:26,033 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:29:28,648 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:29:30,332 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:29:35,929 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:29:38,380 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:29:47,719 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:29:49,480 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:29:52,070 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:29:53,797 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:30:02,839 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:30:04,472 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:30:07,074 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:30:08,920 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:30:13,451 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:30:15,386 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:30:21,395 WARNING Bad Request: /test 241 
-2023-11-02 16:30:21,395 WARNING "POST /test HTTP/1.1" 400 73 212 
-2023-11-02 16:30:44,161 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:30:45,852 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:30:48,011 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:30:50,143 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:31:12,976 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:31:17,165 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:31:21,449 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:31:24,266 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:31:32,702 INFO "POST /test HTTP/1.1" 200 119 212 
-2023-11-02 16:32:29,107 ERROR Internal Server Error: /test 241 
-Traceback (most recent call last):
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
-    response = get_response(request)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
-    return view_func(*args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
-    return self.dispatch(request, *args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
-    response = self.handle_exception(exc)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
-    self.raise_uncaught_exception(exc)
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
-    raise exc
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
-    response = handler(request, *args, **kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 54, in post
-    'code':messages.response_code,
-           ^^^^^^^^^^^^^^^^^^^^^^
-AttributeError: 'dict' object has no attribute 'response_code'
-2023-11-02 16:32:29,115 ERROR "POST /test HTTP/1.1" 500 94070 212 
-2023-11-02 16:32:46,681 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:32:48,086 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:32:51,648 INFO "POST /test HTTP/1.1" 200 119 212 
-2023-11-02 16:33:03,625 ERROR Internal Server Error: /test 241 
-Traceback (most recent call last):
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
-    response = get_response(request)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
-    return view_func(*args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
-    return self.dispatch(request, *args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
-    response = self.handle_exception(exc)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
-    self.raise_uncaught_exception(exc)
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
-    raise exc
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
-    response = handler(request, *args, **kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 57, in post
-    return JsonResponse(msg,messages,status=200)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\http\response.py", line 731, in __init__
-    data = json.dumps(data, cls=encoder, **json_dumps_params)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\DOS\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 234, in dumps
-    return cls(
-           ^^^^
-TypeError: 'dict' object is not callable
-2023-11-02 16:33:03,637 ERROR "POST /test HTTP/1.1" 500 103946 212 
-2023-11-02 16:33:14,292 INFO "POST /test HTTP/1.1" 200 119 212 
-2023-11-02 16:33:20,885 ERROR Internal Server Error: /test 241 
-Traceback (most recent call last):
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
-    response = get_response(request)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
-    response = wrapped_callback(request, *callback_args, **callback_kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
-    return view_func(*args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\views\generic\base.py", line 104, in view
-    return self.dispatch(request, *args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
-    response = self.handle_exception(exc)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
-    self.raise_uncaught_exception(exc)
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
-    raise exc
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
-    response = handler(request, *args, **kwargs)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\restpro\restapp\views.py", line 57, in post
-    return JsonResponse(msg,messages,status=200)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\django\http\response.py", line 731, in __init__
-    data = json.dumps(data, cls=encoder, **json_dumps_params)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\DOS\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 234, in dumps
-    return cls(
-           ^^^^
-TypeError: 'dict' object is not callable
-2023-11-02 16:33:20,891 ERROR "POST /test HTTP/1.1" 500 103956 212 
-2023-11-02 16:33:27,013 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:33:29,217 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:33:39,499 INFO "POST /test HTTP/1.1" 200 33 212 
-2023-11-02 16:33:53,717 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:33:55,608 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:33:58,452 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:34:00,001 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:34:03,687 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:34:05,912 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:34:13,380 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:34:15,103 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:34:20,313 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:34:21,943 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:34:31,823 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:34:33,706 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:34:37,330 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:34:39,200 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:34:44,314 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:34:46,160 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:34:48,153 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:34:49,855 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:34:52,397 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:34:54,519 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:34:56,986 WARNING Bad Request: /test 241 
-2023-11-02 16:34:56,988 WARNING "POST /test HTTP/1.1" 400 73 212 
-2023-11-02 16:35:06,384 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:35:07,771 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:35:13,128 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:35:15,384 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:35:17,682 WARNING Bad Request: /test 241 
-2023-11-02 16:35:17,682 WARNING "POST /test HTTP/1.1" 400 73 212 
-2023-11-02 16:35:31,074 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:35:33,321 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:35:38,874 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:35:40,087 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:35:56,134 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:35:58,205 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:36:13,594 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:36:15,410 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:36:16,364 WARNING Bad Request: /test 241 
-2023-11-02 16:36:16,364 WARNING "POST /test HTTP/1.1" 400 73 212 
-2023-11-02 16:36:29,522 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:36:31,860 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:36:42,119 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:36:44,535 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:36:48,274 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:36:50,136 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:36:52,904 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:36:54,484 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:37:00,453 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:37:01,990 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:37:12,055 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:37:13,360 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:37:17,936 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:37:19,969 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:37:23,538 WARNING Bad Request: /test 241 
-2023-11-02 16:37:23,540 WARNING "POST /test HTTP/1.1" 400 73 212 
-2023-11-02 16:37:43,931 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:37:45,869 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:37:47,597 WARNING Bad Request: /test 241 
-2023-11-02 16:37:47,598 WARNING "POST /test HTTP/1.1" 400 73 212 
-2023-11-02 16:37:49,074 WARNING Bad Request: /test 241 
-2023-11-02 16:37:49,074 WARNING "POST /test HTTP/1.1" 400 73 212 
-2023-11-02 16:37:54,948 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:37:56,542 INFO Watching for file changes with StatReloader 668 
-2023-11-02 16:38:01,200 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views.py changed, reloading. 266 
-2023-11-02 16:38:02,988 INFO Watching for file changes with StatReloader 668 
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\coding\python\django\django-rest framework\env\Lib\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2023-11-02 17:56:33,583 ERROR "POST /student/create HTTP/1.1" 500 80555 212 
+2023-11-02 17:57:04,781 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:57:06,694 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:57:07,979 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:57:08,772 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:57:11,593 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:57:12,415 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:57:14,026 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:57:14,823 INFO Watching for file changes with StatReloader 668 
+2023-11-02 17:57:21,257 INFO E:\coding\python\django\django-rest framework\restpro\restapp\views\student_views.py changed, reloading. 266 
+2023-11-02 17:57:22,505 INFO Watching for file changes with StatReloader 668 

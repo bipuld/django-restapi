@@ -2,6 +2,6 @@ from django.urls import path,include
 from . import views
 
 urlpatterns = [
-    path('test',views.FirstApiTestView.as_view(),name="test")
+    path('student/create',views.StudentCreateApiView.as_view(),)
 
 ]
